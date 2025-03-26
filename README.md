@@ -1,5 +1,5 @@
-# Swechchha's Python Projects
-This repository is to showcase all my Python Learning Projects.
+# OpenFoodFacts Data Analysis of Indian FMCG Products
+Data analysis on all Indian FMCG products available in OpenFoodFacts database
 
 ## 🚀 About Me
 I'm a **software developer** who is passionate in bringing out my ideas to life.<br>
@@ -13,8 +13,7 @@ I am interested in strengthening my base in **Python** and doing some great work
 ![image](https://github.com/user-attachments/assets/37ed7f59-12e0-4ed3-a76d-14c0dfe03dda)
 
 
-## List of my Python Projects
-**1. OpenFoodFacts Data Analysis**
+## **OpenFoodFacts Data Analysis**
 
   - EXTRACTION: I have used sqlite db data available on OpenFoodFacts site. I just downloaded it and fetched its tables into pandas dataframes.
 
@@ -27,4 +26,3 @@ I am interested in strengthening my base in **Python** and doing some great work
   - ANALYSIS RESULT: Using the available data and the word cloud I created, I was able to analyse that for the Indian products available on the website, most of them are sugary sweet products.
     <img width="705" alt="image" src="https://github.com/user-attachments/assets/5f049700-f671-4e54-9d1c-d9b6edf237a9">
 
-**2. coming soon...** 
